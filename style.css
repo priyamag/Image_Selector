@@ -1,0 +1,21 @@
+div{
+    text-align: center;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: aquamarine;
+}
+img{
+    display: block;
+    margin: auto;
+    height: 1050px;
+    width: 1050px;
+}
+body{
+    background-color: black;
+}
+button{
+    border-radius: 90px;
+    background-color: aquamarine;
+}
